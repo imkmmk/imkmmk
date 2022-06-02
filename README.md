@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @imkmmk
-- 👀 I’m interested in ... coding, music, economics
+- 👀 I’m interested in ... coding (mostly Python currently), music composition (guitar and midi) and mixing, economics
 - 🌱 I’m currently learning ... cryptography fundamentals (cryptopals, cryptohack), leetcode problems, hebrew on duolingo
 - 💞️ I’m looking to collaborate on ... interesting ideas
-- 📫 How to reach me ... I guess a pull request ...
+- 📫 How to reach me ... maybe a pull request?
 
 <!---
 imkmmk/imkmmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
