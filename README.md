@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imkmmk
-- 👀 I’m interested in ... coding (mostly Python currently), music composition (guitar and midi) and mixing, economics
-- 🌱 I’m currently learning ... cryptography fundamentals (cryptopals, cryptohack), leetcode problems, hebrew on duolingo
+- 👀 I’m interested in ... Machine Learning, Python, C/C++, Rust, music, economics
+- 🌱 I’m currently learning ... leetcode, hebrew, crytopals
 - 💞️ I’m looking to collaborate on ... interesting ideas
 - 📫 How to reach me ... maybe a pull request?
 
